@@ -5,7 +5,7 @@ O objetivo desse projeto é desenvolver uma aplicação de aprendizado de máqui
 • Integrantes do Grupo 8:
 
 > - **Lucas André Mendonça Océa - 202600081420**
-  - **Victor Gabriel Gomes Oliveira - 202600046233**
+> - **Victor Gabriel Gomes Oliveira - 202600046233**
 
 • Fonte de dados utilizada: https://archive.ics.uci.edu/dataset/320/student+performance
 
