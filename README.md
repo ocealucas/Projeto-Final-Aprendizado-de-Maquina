@@ -21,7 +21,9 @@ O objetivo desse projeto é desenvolver uma aplicação de aprendizado de máqui
                              Lucas André - Código no colab e edição do video 
                              
 • Declaração de uso de ferramentas de inteligência artificial: ChatGpt para organização de tabelas com análise de dados 
-                                                               Cloude para o código no colab
+                                                               Claude para o código no colab
+
+> Para acessar o colab, assista o video que lá vem explicando passo-a-passo.
  
 
 • Link do vídeo: https://youtu.be/R9fBdZWNOCI
