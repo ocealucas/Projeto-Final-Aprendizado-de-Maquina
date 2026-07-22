@@ -25,5 +25,5 @@ O objetivo desse projeto é desenvolver uma aplicação de aprendizado de máqui
 
 • Declaração de uso de ferramentas de inteligência artificial: 
 
-• Link do vídeo:
+• Link do vídeo: https://youtu.be/R9fBdZWNOCI
 
