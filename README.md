@@ -9,21 +9,20 @@ O objetivo desse projeto é desenvolver uma aplicação de aprendizado de máqui
 
 • Fonte de dados utilizada: https://archive.ics.uci.edu/dataset/320/student+performance
 
-• Tipo de tarefa:
+• Tipo de tarefa: Regressão
 
-• Organização dos arquivos:
+• Instruções para abrir o notebook no Colab: estará no final do notebook o link do colab
 
-• Instruções para abrir o notebook no Colab: 
+• Modelos utilizados Regressão linear, Árvore de decisão , Random Forest.
 
-• Modelos utilizados 
+• Principais resultados: A pricipal análise é a relaçao muito alta e diretamente proporcional entre notas passadas e notas anteriores 
 
-• Principais resultados:
-
-• Divisão das contribuições: 
-
-• Link do vídeo: 
-
-• Declaração de uso de ferramentas de inteligência artificial: 
+• Divisão das contribuições: Victor Gabriel - Análise de dados, tabelas e redigir o notebook 
+                             Lucas André - Código no colab e edição do video 
+                             
+• Declaração de uso de ferramentas de inteligência artificial: ChatGpt para organização de tabelas com análise de dados 
+                                                               Cloude para o código no colab
+ 
 
 • Link do vídeo: https://youtu.be/R9fBdZWNOCI
 
